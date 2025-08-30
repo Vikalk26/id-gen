@@ -1,0 +1,89 @@
+{
+  "background_image": "C:/Users/sapan/Documents/projects/Personal/id-gen/assets/SAL.png",
+  "name": {
+    "x_mm": 40.39,
+    "y_mm": 20.45,
+    "font_path": "arial.ttf",
+    "font_size": 22,
+    "color": [
+      0,
+      0,
+      0
+    ]
+  },
+  "ph_number": {
+    "x_mm": 41.25,
+    "y_mm": 48.33,
+    "font_path": "arial.ttf",
+    "font_size": 22,
+    "color": [
+      50,
+      50,
+      50
+    ]
+  },
+  "enrollment": {
+    "x_mm": 40.25,
+    "y_mm": 15.91,
+    "font_path": "arial.ttf",
+    "font_size": 22,
+    "color": [
+      0,
+      0,
+      0
+    ]
+  },
+  "branch": {
+    "x_mm": 40.54,
+    "y_mm": 24.69,
+    "font_path": "arial.ttf",
+    "font_size": 22,
+    "color": [
+      0,
+      0,
+      0
+    ]
+  },
+  "dob": {
+    "x_mm": 40.82,
+    "y_mm": 29.16,
+    "font_path": "arial.ttf",
+    "font_size": 22,
+    "color": [
+      0,
+      0,
+      0
+    ]
+  },
+  "bloodg": {
+    "x_mm": 40.83,
+    "y_mm": 33.86,
+    "font_path": "arial.ttf",
+    "font_size": 22,
+    "color": [
+      0,
+      0,
+      0
+    ]
+  },
+  "address": {
+    "x_mm": 40.68,
+    "y_mm": 38.03,
+    "font_path": "arial.ttf",
+    "font_size": 22,
+    "color": [
+      0,
+      0,
+      0
+    ],
+    "max_width_mm": 45
+  },
+  "pfp": {
+    "type": "image",
+    "x_mm": 3,
+    "y_mm": 19,
+    "width_mm": 13,
+    "height_mm": 19,
+    "border_radius_px": 8
+  }
+}
